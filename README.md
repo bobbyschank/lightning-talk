@@ -1,6 +1,7 @@
 # Adding Firebase Database to a React Native App
 
 ### Firebase Realtime Database is one big JSON tree
+### Keeping your json tree "flat" is key to good performance and scalability
 [FB DB structure and best practices](https://firebase.google.com/docs/database/web/structure-data)
 
 ### Follow firebase web setup [here](https://firebase.google.com/docs/database/web/start)
